@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7452E2EE59AB2e8648b8A04C26a38D9eD286988",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb7452e2ee59ab2e8648b8a04c26a38d9ed286988",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "T.O.M. CAT",
+  "SYMBOL": "TOMCNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tomcat",
+  "SHOW_BACKGROUND": true
+}
